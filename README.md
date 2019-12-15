@@ -1,6 +1,7 @@
 # SetupCompleted
 A small script to optimize Windows 10 after installation
 
+![Example desktop after setup](Setupcompleted.png)
 ## Features
 1. Remove all Windows 10 apps(excluding Calculator, Store, Photo's)
    
