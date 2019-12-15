@@ -1,7 +1,7 @@
 # SetupCompleted
 A small script to optimize Windows 10 after installation
 
-##Features
+## Features
 1. Remove all Windows 10 apps(excluding Calculator, Store, Photo's)
    
 2. Set This PC as default Launch folder for Windows Explorer
