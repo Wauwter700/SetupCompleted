@@ -6,9 +6,9 @@ A small script to optimize Windows 10 after installation
    
 2. Set This PC as default Launch folder for Windows Explorer
    
-3. Disable the SearchBox in the Taskbar
+3. Remove the SearchBox from the Taskbar
    
-4. Unpin all default tiles in the Startmenu
+4. Unpin all default tiles from the Startmenu
    
 5. Unpin all apps from the taskbar (except Windows Explorer)
    
@@ -21,7 +21,7 @@ A small script to optimize Windows 10 after installation
 1. Open script.psi in a text editor and remove all lines that you don't want to execute. 
 2. run the setupcomplete.cmd file. 
 
-Warning this script will delete all Windows 10 apps, excluding calculator, store and photo's! 
-
+Warning: this script will delete all Windows 10 apps, excluding calculator, store and photo's! 
+Also all shortcuts, and pinned apps will be removed!
 
 
